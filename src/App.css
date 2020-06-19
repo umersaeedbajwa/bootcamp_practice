@@ -1,0 +1,14 @@
+.box {
+  height: 500px;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.dayLight {
+  background-color: chartreuse;
+  align-content: center;
+}
+
+.night {
+  background-color: crimson;
+}
